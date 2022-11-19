@@ -1,0 +1,5 @@
+﻿  11.10.22_Lab_7.cpp
+C:\Users\Konstantin\source\repos\11.10.22_Lab_7\11.10.22_Lab_7\11.10.22_Lab_7.cpp(33,24): warning C4244: /=: преобразование "double" в "int", возможна потеря данных
+C:\Users\Konstantin\source\repos\11.10.22_Lab_7\11.10.22_Lab_7\11.10.22_Lab_7.cpp(34,24): warning C4244: *=: преобразование "double" в "int", возможна потеря данных
+C:\Users\Konstantin\source\repos\11.10.22_Lab_7\11.10.22_Lab_7\11.10.22_Lab_7.cpp(7,36): warning C4101: temp: неиспользованная локальная переменная
+  11.10.22_Lab_7.vcxproj -> C:\Users\Konstantin\source\repos\11.10.22_Lab_7\Debug\11.10.22_Lab_7.exe
